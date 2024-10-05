@@ -1,1 +1,1 @@
-# PongFromScratch
+# Pong :O
